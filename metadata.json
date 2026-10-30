@@ -1,0 +1,10 @@
+{
+  "name": "VĂN SẮC QUẢN BẠ AI - Khơi nguồn văn chương từ bản sắc quê hương",
+  "description": "Ứng dụng dạy học Ngữ văn 6 tích hợp bản sắc văn hóa Quản Bạ, hỗ trợ giáo viên và học sinh phát triển năng lực đọc, viết, nói và nghe cùng AI sư phạm.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
